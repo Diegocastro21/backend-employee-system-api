@@ -11,7 +11,7 @@ Se crea con el nombre fullstack
 create database employee_system;
 ```
 
-### URl
+### URL
 ```
 http://localhost:8080/api/v1/employees
 ```
